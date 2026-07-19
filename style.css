@@ -621,3 +621,13 @@ footer {
   border-radius: 10px;
   border: none;
 }
+.logo {
+    font-size: 32px;
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+}
+
+.logo:hover {
+    opacity: 0.8;
+}
